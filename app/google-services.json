@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690410430903",
+    "project_id": "photobase-33a03",
+    "storage_bucket": "photobase-33a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690410430903:android:bbac9fd1cc0597d9f24832",
+        "android_client_info": {
+          "package_name": "com.example.photobase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690410430903-82lqm5pd79lbuq3l3h3t6jfhhgqtlf89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcjKP13BXCgagg0EIPp7fpAdAb7xR-fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690410430903-82lqm5pd79lbuq3l3h3t6jfhhgqtlf89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
